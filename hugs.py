@@ -1,0 +1,16 @@
+hugs = ['https://acegif.com/wp-content/gif/anime-hug-86.gif',
+    'https://acegif.com/wp-content/gif/anime-hug-79.gif',
+    'https://acegif.com/wp-content/gif/anime-hug-73.gif',
+    'https://acegif.com/wp-content/gif/anime-hug-19.gif',
+    'https://acegif.com/wp-content/gif/anime-hug-2.gif',
+    'https://acegif.com/wp-content/gif/anime-hug-10.gif',
+    'https://acegif.com/wp-content/gif/anime-hug-13.gif',
+    'https://acegif.com/wp-content/gif/anime-hug-20.gif',
+    'https://acegif.com/wp-content/gif/anime-hug-21.gif',
+    'https://acegif.com/wp-content/gif/anime-hug-23.gif',
+    'https://acegif.com/wp-content/gif/anime-hug-26.gif',
+    'https://acegif.com/wp-content/gif/anime-hug-29.gif',
+    'https://acegif.com/wp-content/gif/anime-hug-31.gif',
+    'https://acegif.com/wp-content/gif/anime-hug-32.gif',
+    'https://acegif.com/wp-content/gif/anime-hug-33.gif'
+]
